@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#ffffff</color>
+
+
+    <color name="transparent">#00000000</color><!-- 透明色 -->
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray_black">#494949</color><!-- 灰黑色 -->
+    <color name="login_normal">#F39801</color><!-- 登录按钮默认背景色 -->
+    <color name="login_clicked">#CB8203</color><!-- 登录按钮按下背景色 -->
+    <color name="bocop_dialog_bg">#77000000</color><!-- 自定义Loding_Dialog-->
+    
+    <!--主页 -->
+    <color name="main_bg">#ffffff</color><!-- 主背景色 -->
+    <color name="notices_bg">#252932</color><!-- 公告背景色 -->
+    <color name="name_txt">#797D86</color><!-- 右抽屉默认文字、分割线颜色 -->
+    <color name="main_bottom">#99D3EDED</color><!-- 主界面底部栏颜色 -->
+    <color name="alarm_inf_col">#484848</color><!-- 报警文字颜色 -->
+    <color name="sort_txt">#32B0FF</color><!-- 功能模块文字颜色 -->
+    <color name="func_txt">#1E1E1E</color><!-- 子功能入口文字颜色 -->
+    <color name="func_txt_new">#0864A4</color><!-- 子功能入口文字颜色（医院版） -->
+    <color name="main_split_down">#C2D1D1</color><!-- 模块分割线下层底色 -->
+    <color name="main_left_itme">#3CAB9D</color><!-- 左侧抽屉栏目颜色 -->
+    
+    <!--登陆页-->
+    <color name="login_txt">#5B0007</color><!-- 登陆页文字颜色 -->
+    
+    <!--打卡、日历-->
+    <color name="check_user_info">#1E1E1E</color><!-- 打卡界面颜色、日历界面文字颜色 -->
+    <color name="check_userinfo_bg">#D9F4F4</color><!-- 打卡打卡个人信息背景颜色 -->
+    <color name="check_time_bg">#E5F5F5</color><!-- 打卡时间背景颜色 -->
+    <color name="check_in_col">#676666</color><!-- 在岗人员颜色 -->
+    <color name="check_in_split">#ECF7F7</color><!-- 分割线颜色 -->
+    <color name="check_time_font">#098E7D</color><!-- 时间字体颜色 -->
+    <color name="weekday_txt">#62D184</color><!-- 周末文字颜色 -->
+
+    <!--巡检-->
+    <color name="plan_txt">#1E1E1E</color><!-- 巡检计划单列表文字颜色 -->
+    <color name="device_uncheck">#1ED9D6</color><!-- 巡检设备（未巡检） -->
+    <color name="device_checked">#C2D0DE</color><!-- 巡检设备（已巡检、超时巡检） -->
+    <color name="patrol_split">#676666</color><!-- 巡检结果，单和设备的黑色分割线 -->
+    <color name="patrol_load_txt">#47AAF9</color><!-- 巡检结果，查看按钮文字颜色 -->
+
+	<!--保养-->
+    <color name="maintain_uncheck">#1ED9D6</color><!-- 保养记录中未保养的背景（蓝色） -->
+    <color name="maintain_check">#AAAAAA</color><!-- 保养记录中已保养的背景（灰色） -->
+    
+	<!-- 刷新、加载控件 -->
+    <color name="head_text">#FFA6A6A6</color>
+    <color name="text_pressed">#D9D9D9</color><!-- 按下效果 -->
+    
+    <color name="title_bg">#ffffff</color><!-- 标题栏颜色 -->
+    <color name="title_txt">#1E1E1E</color><!-- 标题文字颜色 -->
+    <color name="sub_main">#ffffff</color><!-- 子界面主背景色 -->
+    
+    <color name="power_item_bg">#F6FBFB</color><!-- 变配电模块背景白色 -->
+    <color name="power_txt">#3F3C51</color><!-- 变配电文字色 -->
+    <color name="power_txt_red">#FF6060</color><!-- 变配电数字红色 -->
+    <color name="power_txt_green">#68C452</color><!-- 变配电数字绿色 -->
+    <color name="power_txt_orange">#F8A41F</color><!-- 变配电数字橙色 -->
+    <color name="power_txt_blue">#6B9FFF</color><!-- 变配电数字蓝色 -->
+    
+    <color name="red">#FF0000</color><!-- 报警-红色 -->
+    <color name="yellow">#FFFF00</color><!-- 报警-黄色-->
+    <color name="left_split">#797D86</color><!-- 左侧抽屉分割线-->
+    <color name="left_not_emerengy">#797D86</color><!-- 左侧抽屉非紧急内容-->
+    
+    <!-- 报警管理 -->
+    <color name="alrm_txt_def_blue">#1ED9D6</color><!-- 报警管理界面默认蓝色字-->
+    <color name="alrm_blue_bg">#00EEEE</color><!-- 按钮按下时候背景色-->
+    <color name="alrm_txt_def">#676666</color><!-- 报警管理界面默认黑色字-->
+    <color name="alrm_area_bg">#E3EDED</color><!-- 报警管理界面名称背景色-->
+    <color name="alrm_value_bg">#F6FBFB</color><!-- 报警管理界面值背景色-->
+    <!-- 报警处理 -->
+    <color name="alrm_handle_bg">#F6FBFB</color><!-- 报警处理界面主色调-->
+    <color name="alrm_spinner_def">#676666</color><!-- 报警Spinner默认文字颜色-->
+    
+    <color name="alrm_red">#D00000</color><!-- 紧急报警-红色-->
+    <color name="alrm_orange">#EAB617</color><!-- 严重报警-橙色-->
+    <color name="alrm_green">#49D000</color><!-- 普通报警-普通-->
+    
+    <!-- 扫码 -->
+    <color name="scan_btn_default">#D3EDED</color><!-- 默认颜色-->
+    <color name="scan_btn_click">#B3E8E8</color><!-- 按下时候颜色-->
+    <color name="scan_tab_txt">#1E1E1E</color><!-- 底部按钮文字颜色-->
+    <color name="scan_para_txt">#676666</color><!-- 参数名颜色-->
+    <color name="scan_value_txt">#1ED9D6</color><!-- 参数值颜色-->
+    <color name="scan_para_bg">#E3EDED</color><!-- 参数名背景-->
+    
+    <!-- 能耗 -->
+    <color name="energy_tab">#1ED9D6</color><!-- TAB标题颜色-->
+    <color name="energy_split">#676666</color><!-- 黑分割色-->
+    <color name="energy_txt">#1E1E1E</color><!-- 数字颜色-->
+    <color name="energy_main">#ECF7F7</color><!-- 主颜色-->
+    <color name="energy_top_tap">#D9F4F4</color><!-- 能耗块颜色-->
+    
+    <!-- 打卡-->
+    <color name="checkout_item">#7b7b7b</color><!-- 下班打卡人员颜色 （浅灰色）-->
+	<color name="checkin_item">#FDA003</color><!-- 上班打卡人员颜色 （黄色）-->
+	<color name="checkin_item_bg">#E5F5F5</color><!-- 考勤人员背景色-->
+
+    <!-- -->
+    <color name="air_fan_param_bg">#1ED9D6</color>
+    <color name="air_fan_home_item_bg">#D7F1F1</color>
+    <color name="air_fan_status_error_color">#E75959</color>
+    <color name="air_fan_status_ok_color">#00C14D</color>
+    <color name="air_fan_status_stop_color">#B0B0B0</color>
+
+    <color name="base_style_color">#0075C1</color>
+    <color name="air_fan_param_value_bg">#ECF7F7</color>
+    <color name="air_fan_param_value_no_ok">#333333</color>
+    <color name="air_fan_param_value_ok">#4889E6</color>
+    <color name="base_black1">#1E1E1E</color>
+    <color name="air_fan_param_name_color">#676666</color>
+    <color name="air_fan_param_value_color">#333333</color>
+
+    <color name="main_background">#F8F8F8</color>
+    <color name="color_base_text_black1">#333333</color>
+    <color name="color_base_text_black2">#666666</color>
+    <color name="color_4A90E2">#4A90E2</color>
+    <color name="color_FFBDBDBD">#FFBDBDBD</color>
+
+    <!-- Energy 字体颜色-->
+    <color name="energy_data_color">#FF666666</color>
+
+
+    <!-- activity的背景颜色 -->
+    <color name="activity_background">#ffffffff</color>
+    <color name="activity_main_line_bg">#EFEFEF</color>'
+
+
+
+
+    <color name="envir_best">#31E12E</color>
+    <color name="envir_ok">#0DB643</color>
+    <color name="envir_bad1">#F5BE29</color>
+    <color name="envir_bad2">#EE8C1E</color>
+    <color name="envir_bad3">#E83218</color>
+    <color name="envir_bad4">#B71700</color>
+
+
+
+    <color name="video_online">#EE9212</color>
+    <color name="base_line_bg">#EBEBEB</color>
+
+
+    <color name="park_lot_title_name_color">#646464</color>
+
+</resources>

@@ -1,0 +1,270 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="notice_margin">10dp</dimen>
+    <dimen name="text_size_8">8.0sp</dimen>
+    <dimen name="text_size_9">9.0sp</dimen>
+    <dimen name="text_size_10">10.0sp</dimen>
+    <dimen name="text_size_11">11.0sp</dimen>
+    <dimen name="text_size_12">12.0sp</dimen>
+    <dimen name="text_size_13">13.0sp</dimen>
+    <dimen name="text_size_14">14.0sp</dimen>
+    <dimen name="text_size_15">15.0sp</dimen>
+    <dimen name="text_size_16">16.0sp</dimen>
+    <dimen name="text_size_17">17.0sp</dimen>
+    <dimen name="text_size_18">18.0sp</dimen>
+    <dimen name="text_size_19">19.0sp</dimen>
+    <dimen name="text_size_20">20.0sp</dimen>
+    <dimen name="text_size_23">23.0sp</dimen>
+    <dimen name="text_size_25">25.0sp</dimen>
+    <dimen name="text_size_26">26.0sp</dimen>
+    <dimen name="text_size_36">36.0sp</dimen>
+    <dimen name="plan_padding">10dp</dimen>
+    <!-- 巡检计划清单中的条目内间距 -->
+
+    <dimen name="main_left_width">240dp</dimen>
+    <!-- 左侧抽屉宽度 -->
+    <dimen name="main_left_item_icon_padding">15dp</dimen>
+    <!-- 左侧抽屉图标距离文字距离 -->
+    <dimen name="main_left_arrow">20dp</dimen>
+    <!-- 左侧抽屉箭头宽高 -->
+
+    <dimen name="common_title">60dp</dimen>
+    <!-- 标题栏高度 -->
+    <dimen name="home_title_height">40dp</dimen>
+    <!-- 首页title高度 -->
+    <dimen name="home_title_padding">20dp</dimen>
+    <!-- 首页title文字距离顶部间距 -->
+    <dimen name="home_item_margin">15dp</dimen>
+    <dimen name="home_item_margin_top">10dp</dimen>
+    <!-- 首页每项之间的间距 -->
+    <dimen name="home_item_split_margin">5dp</dimen>
+    <!-- 首页每项两行之间的间距 -->
+    <dimen name="iv_record_width">65dp</dimen>
+    <!-- 首页打卡图标的宽度 -->
+    <dimen name="iv_record_height">45dp</dimen>
+    <!-- 首页打卡图标的高度 -->
+    <dimen name="iv_record_margin_bottom">80dp</dimen>
+    <!-- 首页打卡图标距离底部的间距 -->
+
+    <dimen name="login_input_padding">10dp</dimen>
+    <!-- 登陆页输入框内间距 -->
+    <dimen name="login_input_txt_maargin">5dp</dimen>
+    <!-- 登陆页输入框内容间距 -->
+
+    <dimen name="alarm_name_padding">10dp</dimen>
+    <!-- 报警管理中Title的上下内间距 -->
+    <dimen name="alarm_name_padding_t_b">10dp</dimen>
+    <!-- 报警管理中文字的上下内间距 -->
+    <dimen name="alarm_name_padding_l_r">2dp</dimen>
+    <!-- 报警管理中文字的左右内间距 -->
+    <dimen name="alarm_main_bg_margin">10dp</dimen>
+    <!-- 报警处理中主界面边距 -->
+    <dimen name="alarm_main_top_margin">10dp</dimen>
+    <!-- 报警处理中顶部中间条目间隔 -->
+    <dimen name="alarm_his_input_height">30dp</dimen>
+    <!-- 历史报警查询中输入框高度 -->
+    <dimen name="alarm_his_input_margin">5dp</dimen>
+    <!-- 历史报警查询中输入框间距 -->
+    <dimen name="calendar_size">20dp</dimen>
+    <!-- 日历的宽高 -->
+
+    <dimen name="check_margin">5dp</dimen>
+    <dimen name="check_in_margin">10dp</dimen>
+    <!-- 打卡界面间距 -->
+
+    <dimen name="calendar_item_margin">5dp</dimen>
+    <!-- 工作日历某天的内容条目间距 -->
+    <dimen name="calendar_margin">10dp</dimen>
+    <!-- 工作日历界面间距 -->
+    <dimen name="calendar_icon_margin">30dp</dimen>
+    <!-- 工作日历日历图标间距 -->
+    <dimen name="calendar_line_margin">50dp</dimen>
+    <!-- 工作日历线和列表项的间距 -->
+    <dimen name="calendar_margin_lr">20dp</dimen>
+    <!-- 工作日历左右两边间距 -->
+    <dimen name="calendar_item_padding">5dp</dimen>
+    <!-- 工作日历内容框内间距 -->
+    <dimen name="calendar_icon_width">8dp</dimen>
+    <!-- 工作日历所有流线图标宽度 -->
+
+    <dimen name="repair_item_margin_bottom">5dp</dimen>
+    <!-- 报修界面条目间距 -->
+    <dimen name="repair_calendar_margin_right">15dp</dimen>
+    <!-- 报修界面日历右间距 -->
+
+    <dimen name="notice_item_pad">5dp</dimen>
+    <!-- 左侧公告间距 -->
+    <dimen name="notice_split_heigh">0.5dp</dimen>
+    <!-- 左侧分割线高度 -->
+
+
+    <!-- 标题栏高度 -->
+    <dimen name="common_title_icon">60dp</dimen>
+    <!-- 标题栏图标大小 -->
+    <dimen name="common_title_pad">16dp</dimen>
+    <!-- 标题栏图标间距 -->
+
+
+    <!-- 首页打卡图标距离底部的间距 -->
+    <dimen name="tv_notice_pad">10dp</dimen>
+    <!-- 首页跑马灯的间距 -->
+    <dimen name="iv_icon_width">@dimen/qb_px_54</dimen>
+    <!-- 主页图标宽高 -->
+    <dimen name="icons_pad">15dp</dimen>
+    <!-- 主页中间部分间距 -->
+    <dimen name="bot_icon_height">50dp</dimen>
+    <!-- 主页底部图标高度 -->
+    <dimen name="bot_height">70dp</dimen>
+    <!-- 主页底部高度 -->
+    <dimen name="left_side_pad">10dp</dimen>
+    <!-- 主页左侧间距 -->
+    <dimen name="right_side_pad">@dimen/qb_px_268</dimen>
+    <!-- 右侧宽度 -->
+    <dimen name="left_sign_width">10dp</dimen>
+    <!-- 左侧报警状态图标大小 -->
+    <dimen name="left_sign_margin">5dp</dimen>
+    <!-- 左侧报警状态图标大小 -->
+    <dimen name="left_txt_margin">2dp</dimen>
+    <!-- 左侧报警文字间距 -->
+    <dimen name="right_icon_size">100dp</dimen>
+    <!-- 右侧图标大小 -->
+    <dimen name="right_icon_margin">50dp</dimen>
+    <!-- 右侧图标间距大小 -->
+    <dimen name="right_item_heigh">60dp</dimen>
+    <!-- 右侧条目高度 -->
+    <dimen name="right_txt_margin">20dp</dimen>
+    <!-- 右侧文字间距 -->
+
+    <dimen name="login_input_txt_margin">5dp</dimen>
+    <!-- 登陆页输入框内容间距 -->
+
+    <dimen name="alarm_split_v">0.1dp</dimen>
+    <!-- 报警条目中线 -->
+    <dimen name="alarm_split_h">0.5dp</dimen>
+    <!-- 报警条目中线宽 -->
+    <dimen name="alarm_item_board_width">1dp</dimen>
+    <!-- 报警条目中线宽 -->
+
+    <dimen name="cur_alarm_rb_heigh">40dip</dimen>
+    <dimen name="cur_alarm_status_w">40dip</dimen>
+    <dimen name="cur_alarm_status_h">20dip</dimen>
+    <dimen name="alarm_handle_et_pad">10dp</dimen>
+    <dimen name="alarm_handle_sp_heigh">40dp</dimen>
+
+    <!-- 打卡界面间距 -->
+    <dimen name="check_in_time_bg">150dp</dimen>
+    <dimen name="check_in_time_mar">20dp</dimen>
+    <dimen name="check_in_split_height">2dp</dimen>
+    <dimen name="check_in_item_height">45dp</dimen>
+    <dimen name="check_in_item_mar_left">30dp</dimen>
+    <!-- 工作日历所有流线图标宽度 -->
+    <dimen name="calendar_item_heigh">45dp</dimen>
+    <!-- 报修界面日历右间距 -->
+    <dimen name="repair_add_dialog_pad">30dp</dimen>
+    <!-- 增加维修单对话框内间距 -->
+    <dimen name="repair_add_dialog_drawable_pad">20dp</dimen>
+    <!-- 增加维修单对话框图片内间距 -->
+    <dimen name="scan_title_heigh">50dp</dimen>
+    <!-- 扫码界面高度 -->
+    <dimen name="repair_txt_pad">10dp</dimen>
+    <dimen name="scan_txt_mar">10dp</dimen>
+    <!-- 扫码界面取消文字间距 -->
+    <dimen name="scan_img_hei">120dp</dimen>
+    <!-- 扫码界面图高 -->
+    <dimen name="scan_layout_size">200dp</dimen>
+    <!-- 扫码界面内布局 -->
+    <dimen name="scan_img_mar">5dp</dimen>
+    <dimen name="scan_img_txt_mar_top">30dp</dimen>
+
+    <!-- 登录界面 -->
+    <dimen name="login_icon_width">150dp</dimen>
+    <!-- 登陆界面图标宽度 -->
+    <dimen name="login_icon_height">100dp</dimen>
+    <!-- 登陆界面图标高度 -->
+    <dimen name="login_icon_margin">20dp</dimen>
+    <!-- 登陆界面图标间距 -->
+    <dimen name="layout_width">250dp</dimen>
+    <!-- 布局宽度 -->
+    <dimen name="layout_height_line">2dp</dimen>
+    <!-- 横线高度 -->
+    <dimen name="login_btn_width">250dp</dimen>
+    <!-- 按钮宽度 -->
+    <dimen name="login_btn_height">35dp</dimen>
+    <!-- 按钮高度 -->
+    <dimen name="check_box_margin">10.0dip</dimen>
+    <!-- 勾选框间距 -->
+    <dimen name="check_box_height">40.0dip</dimen>
+    <!-- 勾选框高度 -->
+
+    <dimen name="maintain_sign_heigh">30dp</dimen>
+    <dimen name="maintain_sign_width">50dp</dimen>
+    <!-- 保养工单详情图标 -->
+    <dimen name="maintain_device_txt_pad">5dp</dimen>
+    <dimen name="patrol_rl_heigh">100dp</dimen>
+    <dimen name="patrol_img_heigh">30dp</dimen>
+    <dimen name="patrol_img_width">50dp</dimen>
+
+    <!-- 打卡 -->
+    <dimen name="checkin_img_size">80dp</dimen>
+    <dimen name="checkin_img_mar">10dp</dimen>
+    <dimen name="checkin_time_bg_mar">20dp</dimen>
+
+    <!-- 对话框 -->
+    <dimen name="dialog_mar">20dp</dimen>
+    <dimen name="dialog_txt_mar">10dp</dimen>
+    <dimen name="dialog_btn_width">100dp</dimen>
+    <dimen name="dialog_img_size">40dp</dimen>
+    <dimen name="dialog_txt_pad">5dp</dimen>
+
+    <!-- 等待框 -->
+    <dimen name="w_dialog_layout">220dp</dimen>
+    <dimen name="w_dialog_img_pad">3dp</dimen>
+    <dimen name="w_dialog_txt_mar">10dp</dimen>
+    <dimen name="w_dialog_txt_w">20dp</dimen>
+    <dimen name="w_dialog_img_size">70dp</dimen>
+
+    <!-- 能耗 -->
+    <dimen name="energy_tab_heigh">40dp</dimen>
+    <dimen name="energy_layout_p">5dp</dimen>
+    <dimen name="energy_btn_mar">10dp</dimen>
+
+    <!-- 扫码 -->
+    <dimen name="para_heigh">35dp</dimen>
+    <dimen name="bot_btn_size">60dp</dimen>
+    <dimen name="bot_btn_pad">20dp</dimen>
+    <dimen name="urcode_size">100dp</dimen>
+    <dimen name="attach_size">30dp</dimen>
+
+    <!-- 设置IP -->
+    <dimen name="setip_width">250dp</dimen>
+    <dimen name="setip_mar_b">10dp</dimen>
+    <dimen name="setip_mar_l">20dp</dimen>
+    <dimen name="setip_edit_width">30dp</dimen>
+    <dimen name="setip_edit_pad">5dp</dimen>
+
+    <!-- 个人中心 -->
+    <dimen name="modify_pwd_heigh">45dp</dimen>
+
+
+    <!-- 空调通风-->
+    <dimen name="icon_status_padding">9dp</dimen>
+    <dimen name="dp_10">10dp</dimen>
+    <dimen name="dp_12">12dp</dimen>
+    <dimen name="dp_14">14dp</dimen>
+    <dimen name="dp_16">16dp</dimen>
+    <dimen name="dp_4">4dp</dimen>
+    <dimen name="dp_5">5dp</dimen>
+    <dimen name="dp_6">6dp</dimen>
+    <dimen name="dp_1">1dp</dimen>
+    <dimen name="dp_8">8dp</dimen>
+    <dimen name="dp_40">40dp</dimen>
+    <dimen name="dp_72">72dp</dimen>
+    <dimen name="sp_12">12sp</dimen>
+    <dimen name="sp_14">14sp</dimen>
+    <dimen name="sp_16">16sp</dimen>
+
+    <dimen name="base_top_left_margin">@dimen/qb_px_20</dimen>
+</resources>
